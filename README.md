@@ -1,5 +1,5 @@
-# DMATIS
-Dark Matter ATtenuation Importance Sampling
+# DMATIS (Dark Matter ATtenuation Importance Sampling)
+
 
 DMATIS (Dark Matter ATtenuation Importance Sampling) calculates the trajectories of DM particles that propagate in the Earth's crust and the lead shield to reach the DAMIC detector using an importance sampling Monte-Carlo simulation. A detailed Monte-Carlo simulation avoids the deficiencies of the SGED/KS method that uses a mean energy loss description to calculate the lower bound on the DM-proton cross section. The code implementing the importance sampling technique makes the brute-force Monte-Carlo simulation of moderately strongly interacting DM with nucleons computationally feasible. DMATIS is written in Python 3 and MATHEMATICA.
 
