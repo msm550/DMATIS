@@ -1,5 +1,5 @@
 # DMATIS (Dark Matter ATtenuation Importance Sampling)
-![DAMIC_visulization](https://raw.githubusercontent.com/msm550/DMATIS/DAMIC_demostration.png)
+![DAMIC_visulization](https://raw.githubusercontent.com/msm550/DMATIS/blob/master/DAMIC_demostration.png)
 
 
 
